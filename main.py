@@ -4,6 +4,8 @@
 Writes a single original one-line joke to /output/entry.txt.
 No network, no input files, no dependencies: the joke is a constant
 in this file, so the program is fully self-contained.
+The joke is 81 characters: a "smart" umbrella so clever it defeats
+its own purpose — instead of keeping you dry, it just tells you to stay home.
 """
 
 import os
